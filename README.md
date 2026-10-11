@@ -1,7 +1,7 @@
 <h1 align="center">Yusuke Nakamura</h1>
 
 <p align="center">
-  <strong>Medicine · Biostatistics · Machine Learning</strong>
+  <strong>Medicine · Biostatistics · Pharmacovigilance</strong>
 </p>
 
 <p align="center">
@@ -10,19 +10,20 @@
 </p>
 
 <p align="center">
-  <a href="#research-interests">Research</a>
+  <a href="#profile-research">Research</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/yusuke0402?tab=repositories">Repositories</a>
   &nbsp;·&nbsp;
-  <a href="#github-activity">Activity</a>
+  <a href="#profile-activity">Activity</a>
 </p>
 
 
+<a name="profile-research"></a>
 Research interests
-I work at the intersection of clinical research and statistical methodology, with a focus on estimating treatment effects using existing clinical data.
-- Historical controls — Borrowing information from past trials for single-arm clinical trials.
-- Causal inference — Estimating treatment effects while accounting for differences between populations.
-- Transfer learning — Exploring covariate shift, importance weighting, and robust estimation.
+I work at the intersection of clinical research and statistical methodology, with a focus on treatment effect estimation and drug safety.
+- Historical controls — Developing methods to borrow information from past trials for treatment effect estimation in single-arm clinical trials.
+- Causal inference & transfer learning — Addressing differences between populations through covariate shift adjustment, importance weighting, and robust estimation.
+- Pharmacovigilance — Investigating drug safety signals and adverse event patterns using VigiBase.
 Tools
 <p>
   <img src="https://img.shields.io/badge/R-111827?style=for-the-badge&amp;logo=r&amp;logoColor=75AADB" alt="R">
@@ -30,6 +31,7 @@ Tools
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git">
 </p>
 
+<a name="profile-activity"></a>
 GitHub activity
 <p align="center">
   <picture>
